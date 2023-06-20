@@ -1,0 +1,4 @@
+This is the first Introduction to Programming Final Review
+
+The quiz that aims to evaluate our understanding of essential concepts related to command line and Git/GitHub. 
+We are encouraged to utilize any available resources to recall or locate the information you require.
